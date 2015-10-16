@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.firstLevel li{
+    display: inline-block;
+    vertical-align: top;
+}
+.secondLevel li{
+    display: none;
+}
