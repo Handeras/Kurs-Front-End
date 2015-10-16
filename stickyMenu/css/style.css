@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 10px;
+}
+.nav{
+    background: green;
+    width: 100%;
+    padding: 5px 0;
+}
+.nav li{
+    display: inline-block;
+}
+.sticky{
+    position: fixed;
+    top: 0;
+}
