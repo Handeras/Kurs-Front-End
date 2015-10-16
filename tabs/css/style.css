@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    margin: 20px;
+    background: green;
+    width: 400px;
+    height: 100px;
+}
+.main div{
+    margin-top: 10px;
+}
+li{
+    display: inline-block;
+    background: red;
+}
